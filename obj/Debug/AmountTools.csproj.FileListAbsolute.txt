@@ -1,0 +1,6 @@
+C:\Users\SinaQasim\source\repos\AmountTools\bin\Debug\AmountTools.dll
+C:\Users\SinaQasim\source\repos\AmountTools\bin\Debug\AmountTools.pdb
+C:\Users\SinaQasim\source\repos\AmountTools\obj\Debug\AmountTools.csproj.AssemblyReference.cache
+C:\Users\SinaQasim\source\repos\AmountTools\obj\Debug\AmountTools.csproj.CoreCompileInputs.cache
+C:\Users\SinaQasim\source\repos\AmountTools\obj\Debug\AmountTools.dll
+C:\Users\SinaQasim\source\repos\AmountTools\obj\Debug\AmountTools.pdb
